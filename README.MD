@@ -4,7 +4,7 @@ using convolutional Deep learning to recognize the faces of Me Anish and sir Cha
 
 ## Vision before attempt
 
-The plant is to sit and make a Neural Network that seperates the faces of friends
+The plan is to sit and make a Neural Network that seperates the faces of friends
 
 details given in the python notebook properly
 
