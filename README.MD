@@ -1,5 +1,5 @@
 # Attempt to Recognize faces of friends
-using convolutional Deep learning to recognize the faces of Me Anish and sir Chaitu
+using convolutional neural networks and Deep learning to recognize the faces of Me Anish and sir Chaitu
 ## Vision before attempt
 
 The plan is to sit and make a Neural Network that seperates the faces of friends
